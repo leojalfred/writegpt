@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "writegpt",
+  "short_name": "writegpt",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Leveraging powerful AI to help you write better"
+}
